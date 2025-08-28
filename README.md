@@ -1,5 +1,5 @@
 Este smart contract, lo realicé meses atrás, este ejercicio práctico,
-tiene el objetivo de crear platillos de comida y sus ingredientes, 
+tiene el objetivo de crear platillos de comida y sus ingredientes. 
 Registrar un plato con el nombre que uno le quiera dar, ingredientes y tiempo de preparación.
 Además tiene una función de consultar los ingredientes de un plato por su nombre.
 Realizó un contrato con el nombre Tacos, que hereda de Comida, esto sirve como ejemplo 
